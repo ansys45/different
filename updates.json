@@ -1,0 +1,43 @@
+{
+  "ok": true,
+  "result": [
+    {
+      "update_id": 183825335,
+      "message": {
+        "message_id": 2,
+        "from": {
+          "id": 253695500,
+          "is_bot": false,
+          "first_name": "Anatoly",
+          "language_code": "en-RU"
+        },
+        "chat": {
+          "id": 253695500,
+          "first_name": "Anatoly",
+          "type": "private"
+        },
+        "date": 1516132415,
+        "text": "Hi, Bot"
+      }
+    },
+    {
+      "update_id": 183825336,
+      "message": {
+        "message_id": 5,
+        "from": {
+          "id": 253695500,
+          "is_bot": false,
+          "first_name": "Anatoly",
+          "language_code": "en-RU"
+        },
+        "chat": {
+          "id": 253695500,
+          "first_name": "Anatoly",
+          "type": "private"
+        },
+        "date": 1516134069,
+        "text": "Привет"
+      }
+    }
+  ]
+}
