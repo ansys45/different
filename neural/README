@@ -1,1 +1,5 @@
+In this folder i present my first neural nets on python.
+I created my own dataset of handwritten letters A and C and wrote a nn for its recognition.
 
+File AC_npy.ipynb is my implementation on pure numpy without using any machine learning libraries.
+File AC_torch.ipynb is an equivalent realisation but using pytorch.
